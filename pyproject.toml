@@ -1,0 +1,10 @@
+[project]
+name = "pirnn-supplement"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "tsfast>=0.1.8",
+]
